@@ -166,6 +166,24 @@ body {
     flex: 1;
     background-color: #3882F6;
     border-radius: 10px;
+    padding: 3rem 10%;
+}
+
+.sign-text {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.message-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.message-body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
 }
 
 /*End of fourth content box */
