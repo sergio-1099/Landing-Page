@@ -21,6 +21,26 @@ body {
     padding: 3rem 20%;
 }
 
+.initial-signup {
+    display: flex;
+    flex: 1;
+}
+
+.left-info {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+}
+
+.place-holder {
+    display: flex;
+    background-color: gray;
+    height: 250px;
+    width: 600px;
+    flex: 1 0 auto;
+    margin-left: auto;
+}
+
 .main-text {
     color: #F9FAF8;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
