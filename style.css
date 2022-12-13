@@ -21,14 +21,18 @@ body {
     padding: 3rem 20%;
 }
 
+/* First Content Box */
+
 .initial-signup {
     display: flex;
     flex: 1;
+    gap: 4rem;
 }
 
 .left-info {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     flex: 1 1 auto;
 }
 
@@ -37,7 +41,7 @@ body {
     background-color: gray;
     height: 250px;
     width: 600px;
-    flex: 1 0 auto;
+    flex: 1 1 100%;
     margin-left: auto;
 }
 
@@ -65,6 +69,7 @@ body {
     height: 40px;
 }
 
+/* End of first content box */
 
 .logo {
     font-size: 24px;
