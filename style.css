@@ -186,6 +186,17 @@ body {
     font-size: 15px;
 }
 
+.second-signup-button {
+    margin-left: auto;
+    border: 3px solid white;
+    border-radius: 10px;
+    background-color: #3882F6;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    width: 150px;
+}
+
 /*End of fourth content box */
 
 .logo {
