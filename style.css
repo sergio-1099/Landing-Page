@@ -7,8 +7,8 @@ body {
 }
 
 .header {
-    background-color: #1F2937;
     display: flex;
+    background-color: #1F2937;
     flex: 1;
     margin: 0;
     padding: 1rem 20%;
@@ -16,8 +16,9 @@ body {
 
 
 .content {
-    background-color: #1F2937;
     display: flex;
+    background-color: #1F2937;
+    flex-direction: column;
     padding: 9rem 20%;
 }
 
@@ -25,6 +26,7 @@ body {
 
 .initial-signup {
     display: flex;
+    background-color: #1F2937;
     flex: 1;
     gap: 4rem;
 }
