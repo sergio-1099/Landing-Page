@@ -153,7 +153,20 @@ body {
 
 /* Fourth Content Box */
 
+.sign-up {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem 15%;
+}
 
+.call-box {
+    display: flex;
+    flex: 1;
+    background-color: #3882F6;
+    border-radius: 10px;
+}
 
 /*End of fourth content box */
 
