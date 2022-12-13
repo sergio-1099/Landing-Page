@@ -35,8 +35,14 @@ body {
 }
 
 .sign-up-button {
+    border-radius: 10px;
     background-color: #3882F6; 
-    color: white;
+    color: #F9FAF8;
+    font-size: 15px;
+    border: none;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
 }
 
 
