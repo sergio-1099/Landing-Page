@@ -125,6 +125,17 @@ body {
 
 /* End of second content box */
 
+/* Third Content Box */
+
+.testimonial-box {
+    display: flex;
+    flex-direction: column;
+    padding: 4em 25%;
+    background-color: #e5e7eb;
+}
+
+/* End of third content box */
+
 .logo {
     font-size: 24px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
