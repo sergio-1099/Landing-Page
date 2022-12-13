@@ -141,6 +141,14 @@ body {
     color: #1F2937;
 }
 
+.source {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #1F2937;
+    margin-left: auto;
+}
+
 /* End of third content box */
 
 .logo {
