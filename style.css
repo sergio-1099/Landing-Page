@@ -11,7 +11,7 @@ body {
     background-color: #1F2937;
     flex: 1;
     margin: 0;
-    padding: 1rem 20%;
+    padding: 1rem 15%;
 }
 
 
@@ -19,7 +19,7 @@ body {
     display: flex;
     background-color: #1F2937;
     flex-direction: column;
-    padding: 9rem 20%;
+    padding: 9rem 15%;
 }
 
 /* First Content Box */
@@ -74,6 +74,25 @@ body {
 }
 
 /* End of first content box */
+
+/* Second Content Box */
+
+.image-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 3em 15%;
+}
+
+.image-box > .heading {
+    font-size: 36px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+/* End of second content box */
 
 .logo {
     font-size: 24px;
