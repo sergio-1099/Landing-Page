@@ -18,7 +18,7 @@ body {
 .content {
     background-color: #1F2937;
     display: flex;
-    padding: 3rem 20%;
+    padding: 9rem 20%;
 }
 
 /* First Content Box */
@@ -55,7 +55,7 @@ body {
 .content-subtext {
     color: #e5e7eb;
     font-size: 18px;
-    padding: 0;
+    padding: 1rem 0;
 }
 
 .sign-up-button {
