@@ -130,7 +130,7 @@ body {
 .testimonial-box {
     display: flex;
     flex-direction: column;
-    padding: 4em 25%;
+    padding: 7em 25%;
     background-color: #e5e7eb;
 }
 
