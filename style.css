@@ -112,7 +112,12 @@ body {
     align-items: center;
 }
 
-
+.text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    color: gray;
+    text-align: center;
+}
 
 /* End of second content box */
 
