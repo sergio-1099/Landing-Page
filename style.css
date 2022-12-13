@@ -62,7 +62,7 @@ body {
     border-radius: 10px;
     background-color: #3882F6; 
     color: #F9FAF8;
-    font-size: 15px;
+    font-size: 17px;
     border: none;
     font-weight: bold;
     width: 150px;
@@ -75,6 +75,7 @@ body {
     font-size: 24px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #F9FAF8;
+    font-weight: bold;
 }
 
 .right-links {
