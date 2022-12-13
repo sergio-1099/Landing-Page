@@ -2,6 +2,8 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
+    
+    flex-direction: column;
 }
 
 .header {
@@ -11,6 +13,32 @@ body {
     margin: 0;
     padding: 1rem 20%;
 }
+
+
+.content {
+    background-color: #1F2937;
+    display: flex;
+    padding: 3rem 20%;
+}
+
+.main-text {
+    color: #F9FAF8;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.content-subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+    padding: 0;
+}
+
+.sign-up-button {
+    background-color: #3882F6; 
+    color: white;
+}
+
 
 .logo {
     font-size: 24px;
